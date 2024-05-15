@@ -1,19 +1,9 @@
 # Hi!
 My name is **Anton Zejdler**. I am a student and a _programmer_.
 # Areas of development
-- [Embedded](https://github.com/ezyxip/ezyxip/edit/master/README.md#embedded)
 - [Backend](https://github.com/ezyxip/ezyxip/edit/master/README.md#backend)
 - [Android](https://github.com/ezyxip/ezyxip/edit/master/README.md#android)
-## Embedded
-Development of software for hardware complexes in C. I have worked on projects aimed at creating multifunctional radio complexes. I solved the problems of interaction of low-level components with each other in conditions of low resources and high importance of real-time data processing, modification of protocols for interaction of FPGA components and integration of devices among themselves.
-I worked with: 
-- Hardware platforms
-  * FPGA Virtex
-  * Milandr
-  * GD32
-- IDE
-  * Keil uVision 5
-  * Xlinx
+- [Embedded](https://github.com/ezyxip/ezyxip/edit/master/README.md#embedded)
 ## Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -30,3 +20,14 @@ I love the Java language and server-side data processing. You can see my technol
 
 ## Android
 Any Javist sooner or later comes to learn the principles of **android development**. Here I discovered the powerful and concise Kotlin language, which makes many useful additions to the Java environment. I'm learning about the **Jetpack Compose** framework and the **Kotlin** coding language. Now I can develop multi-window android applications using **Compose Navigation**, which work with various _data stores and the network_
+
+## Embedded
+Development of software for hardware complexes in C. I have worked on projects aimed at creating multifunctional radio complexes. I solved the problems of interaction of low-level components with each other in conditions of low resources and high importance of real-time data processing, modification of protocols for interaction of FPGA components and integration of devices among themselves.
+I worked with: 
+- Hardware platforms
+  * FPGA Virtex
+  * Milandr
+  * GD32
+- IDE
+  * Keil uVision 5
+  * Xlinx
